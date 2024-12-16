@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Jawad Khan!
 **Software Development Engineer & Co-Founder of Freight Exchange**  
 **Experienced Instructor & Comitted to Become CTO**
 
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadali6688&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadali6688&layout=compact&theme=radical)
 
 ---
 
